@@ -1,0 +1,131 @@
+[05-Dec-2020 11:11:29 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, string given in /home/u649003091/domains/babadroom.store/public_html/connect.php on line 18
+[05-Dec-2020 11:11:29 UTC] PHP Notice:  Undefined variable: METHOD in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 37
+[05-Dec-2020 11:11:29 UTC] PHP Notice:  Undefined variable: _ in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 37
+[05-Dec-2020 11:11:29 UTC] PHP Notice:  Undefined variable: PRDLINKGO in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 161
+[05-Dec-2020 11:11:29 UTC] PHP Warning:  include(footer;php): failed to open stream: No such file or directory in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 672
+[05-Dec-2020 11:11:29 UTC] PHP Warning:  include(footer;php): failed to open stream: No such file or directory in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 672
+[05-Dec-2020 11:11:29 UTC] PHP Warning:  include(): Failed opening 'footer;php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 672
+[05-Dec-2020 11:28:24 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, string given in /home/u649003091/domains/babadroom.store/public_html/connect.php on line 18
+[05-Dec-2020 11:28:24 UTC] PHP Notice:  Undefined variable: METHOD in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 37
+[05-Dec-2020 11:28:24 UTC] PHP Notice:  Undefined variable: _ in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 37
+[05-Dec-2020 11:28:24 UTC] PHP Notice:  Undefined variable: PRDLINKGO in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 176
+[05-Dec-2020 11:28:24 UTC] PHP Warning:  include(footer;php): failed to open stream: No such file or directory in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 619
+[05-Dec-2020 11:28:24 UTC] PHP Warning:  include(footer;php): failed to open stream: No such file or directory in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 619
+[05-Dec-2020 11:28:24 UTC] PHP Warning:  include(): Failed opening 'footer;php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 619
+[05-Dec-2020 11:29:22 UTC] PHP Notice:  Undefined variable: PRDLINKGO in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 171
+[05-Dec-2020 11:29:22 UTC] PHP Warning:  include(footer;php): failed to open stream: No such file or directory in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 614
+[05-Dec-2020 11:29:22 UTC] PHP Warning:  include(footer;php): failed to open stream: No such file or directory in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 614
+[05-Dec-2020 11:29:22 UTC] PHP Warning:  include(): Failed opening 'footer;php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 614
+[05-Dec-2020 11:29:33 UTC] PHP Notice:  Undefined variable: PRDLINKGO in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 171
+[05-Dec-2020 11:29:33 UTC] PHP Warning:  include(footer;php): failed to open stream: No such file or directory in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 614
+[05-Dec-2020 11:29:33 UTC] PHP Warning:  include(footer;php): failed to open stream: No such file or directory in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 614
+[05-Dec-2020 11:29:33 UTC] PHP Warning:  include(): Failed opening 'footer;php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 614
+[05-Dec-2020 11:51:09 UTC] PHP Notice:  Undefined variable: PRDLINKGO in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 171
+[06-Dec-2020 14:41:53 UTC] PHP Notice:  Undefined variable: PRDLINKGO in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 171
+[06-Dec-2020 14:45:34 UTC] PHP Notice:  Undefined variable: PRDLINKGO in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 170
+[06-Dec-2020 14:56:46 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 168
+[06-Dec-2020 14:57:32 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 168
+[06-Dec-2020 15:02:27 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 167
+[06-Dec-2020 15:05:41 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 167
+[06-Dec-2020 15:05:44 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 167
+[06-Dec-2020 15:05:47 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 167
+[06-Dec-2020 15:12:36 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 167
+[06-Dec-2020 15:19:52 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 167
+[06-Dec-2020 15:19:52 UTC] PHP Warning:  include(reviews.php): failed to open stream: No such file or directory in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 227
+[06-Dec-2020 15:19:52 UTC] PHP Warning:  include(reviews.php): failed to open stream: No such file or directory in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 227
+[06-Dec-2020 15:19:52 UTC] PHP Warning:  include(): Failed opening 'reviews.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 227
+[06-Dec-2020 15:20:48 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 167
+[06-Dec-2020 15:21:36 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 167
+[06-Dec-2020 15:21:38 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 167
+[06-Dec-2020 15:21:40 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 167
+[06-Dec-2020 15:23:14 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 167
+[06-Dec-2020 15:25:19 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 167
+[06-Dec-2020 15:26:06 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 167
+[06-Dec-2020 15:26:15 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 167
+[06-Dec-2020 15:33:14 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 176
+[06-Dec-2020 15:33:19 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 176
+[06-Dec-2020 15:33:33 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 176
+[06-Dec-2020 15:33:44 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 176
+[06-Dec-2020 15:34:30 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 176
+[06-Dec-2020 15:53:25 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 176
+[06-Dec-2020 15:56:44 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 176
+[06-Dec-2020 15:56:56 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 176
+[06-Dec-2020 16:08:44 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 176
+[06-Dec-2020 16:09:49 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 176
+[06-Dec-2020 16:11:53 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 176
+[06-Dec-2020 16:25:31 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 176
+[06-Dec-2020 16:25:34 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 176
+[06-Dec-2020 16:34:50 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 176
+[06-Dec-2020 16:35:02 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 176
+[06-Dec-2020 16:35:29 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 176
+[06-Dec-2020 16:36:16 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 176
+[06-Dec-2020 16:36:18 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 176
+[06-Dec-2020 16:37:19 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 176
+[06-Dec-2020 16:37:33 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 176
+[06-Dec-2020 16:39:13 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 176
+[06-Dec-2020 16:40:12 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 176
+[06-Dec-2020 16:40:14 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 176
+[06-Dec-2020 16:40:16 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 176
+[06-Dec-2020 16:42:27 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 176
+[06-Dec-2020 17:07:19 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 176
+[06-Dec-2020 17:19:07 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 176
+[06-Dec-2020 17:21:27 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 176
+[06-Dec-2020 17:22:01 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 176
+[06-Dec-2020 17:47:18 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 176
+[06-Dec-2020 17:47:53 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 176
+[06-Dec-2020 17:53:32 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 187
+[06-Dec-2020 17:54:07 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 187
+[06-Dec-2020 17:54:10 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 187
+[06-Dec-2020 17:54:56 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 187
+[06-Dec-2020 17:54:59 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 187
+[06-Dec-2020 17:55:39 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 187
+[06-Dec-2020 17:55:42 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 187
+[06-Dec-2020 17:56:20 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 187
+[06-Dec-2020 17:56:24 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 187
+[06-Dec-2020 18:05:58 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 187
+[06-Dec-2020 18:07:18 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 187
+[06-Dec-2020 18:08:04 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 187
+[06-Dec-2020 18:08:07 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 187
+[06-Dec-2020 18:08:20 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 187
+[06-Dec-2020 18:08:22 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 187
+[06-Dec-2020 18:08:44 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 187
+[06-Dec-2020 18:08:47 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 187
+[06-Dec-2020 18:11:41 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 187
+[06-Dec-2020 18:12:01 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 187
+[06-Dec-2020 18:12:04 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 187
+[06-Dec-2020 18:32:39 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 187
+[06-Dec-2020 18:35:20 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 187
+[06-Dec-2020 18:37:31 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 187
+[06-Dec-2020 18:38:23 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 187
+[06-Dec-2020 18:38:26 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 187
+[06-Dec-2020 18:39:34 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 187
+[06-Dec-2020 18:39:36 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 187
+[06-Dec-2020 18:39:38 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 187
+[06-Dec-2020 18:40:18 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 187
+[06-Dec-2020 18:41:04 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 187
+[06-Dec-2020 18:50:09 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 187
+[06-Dec-2020 18:50:25 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 187
+[06-Dec-2020 18:51:39 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 187
+[06-Dec-2020 18:51:51 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 187
+[06-Dec-2020 18:56:01 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 187
+[06-Dec-2020 18:56:04 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 187
+[06-Dec-2020 18:56:51 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 187
+[06-Dec-2020 18:56:55 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 187
+[06-Dec-2020 18:57:11 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 187
+[06-Dec-2020 18:58:19 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 187
+[06-Dec-2020 18:58:56 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 187
+[06-Dec-2020 18:58:59 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 187
+[06-Dec-2020 19:01:55 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 187
+[06-Dec-2020 19:06:15 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 187
+[06-Dec-2020 19:20:12 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 187
+[06-Dec-2020 19:21:28 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 187
+[06-Dec-2020 19:29:10 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 187
+[06-Dec-2020 19:34:48 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 187
+[06-Dec-2020 19:41:12 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 187
+[06-Dec-2020 22:26:53 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 187
+[07-Dec-2020 01:24:48 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 187
+[07-Dec-2020 01:43:41 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 199
+[07-Dec-2020 01:52:38 UTC] PHP Notice:  Undefined index: p in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 32
+[09-Dec-2020 05:30:46 UTC] PHP Notice:  Undefined index: PRDPRICESALE1 in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 62
+[09-Dec-2020 05:30:46 UTC] PHP Notice:  Undefined index: PRDPRICESALE2 in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 63
+[09-Dec-2020 05:30:46 UTC] PHP Notice:  Undefined variable: PRDID in /home/u649003091/domains/babadroom.store/public_html/baby/index.php on line 203

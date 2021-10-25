@@ -1,0 +1,14 @@
+[08-Dec-2020 12:01:33 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, string given in /home/u649003091/domains/babadroom.store/public_html/cpanel/connect/conecta_cpanel.php on line 18
+[08-Dec-2020 09:53:59 America/Sao_Paulo] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/u649003091/domains/babadroom.store/public_html/cpanel/logout.php on line 10
+[08-Dec-2020 11:03:28 America/Sao_Paulo] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/u649003091/domains/babadroom.store/public_html/cpanel/logout.php on line 10
+[09-Dec-2020 09:31:56 America/Sao_Paulo] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/u649003091/domains/babadroom.store/public_html/cpanel/index.php on line 81
+[09-Dec-2020 15:24:30 America/Sao_Paulo] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/u649003091/domains/babadroom.store/public_html/cpanel/index.php on line 81
+[13-Dec-2020 18:49:25 America/Sao_Paulo] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/u649003091/domains/babadroom.com/public_html/cpanel/index.php on line 81
+[14-Dec-2020 10:48:47 America/Sao_Paulo] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/u649003091/domains/babadroom.com/public_html/cpanel/index.php on line 81
+[15-Dec-2020 11:33:32 America/Sao_Paulo] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/u649003091/domains/babadroom.com/public_html/cpanel/index.php on line 81
+[18-Dec-2020 06:24:27 America/Sao_Paulo] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/u649003091/domains/babadroom.com/public_html/cpanel/index.php on line 81
+[23-Dec-2020 13:27:32 America/Sao_Paulo] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/u649003091/domains/babadroom.com/public_html/cpanel/index.php on line 81
+[08-Feb-2021 14:14:14 America/Sao_Paulo] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/u649003091/domains/babadroom.com/public_html/cpanel/index.php on line 81
+[04-Mar-2021 09:31:17 America/Sao_Paulo] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/u649003091/domains/babadroom.com/public_html/cpanel/index.php on line 81
+[08-Mar-2021 11:23:43 America/Sao_Paulo] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/u649003091/domains/babadroom.com/public_html/cpanel/index.php on line 81
+[05-Apr-2021 21:32:01 America/Sao_Paulo] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/u649003091/domains/babadroom.com/public_html/cpanel/index.php on line 81

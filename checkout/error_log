@@ -1,0 +1,266 @@
+[08-Dec-2020 23:05:53 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/u649003091/domains/babadroom.store/public_html/checkout/details.php on line 1
+[08-Dec-2020 23:05:53 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/u649003091/domains/babadroom.store/public_html/checkout/details.php on line 1
+[08-Dec-2020 23:05:53 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/u649003091/domains/babadroom.store/public_html/checkout/details.php on line 1
+[09-Dec-2020 16:12:54 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/u649003091/domains/babadroom.store/public_html/checkout/header.php on line 33
+[09-Dec-2020 16:12:54 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/u649003091/domains/babadroom.store/public_html/checkout/header.php on line 33
+[09-Dec-2020 16:12:54 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/u649003091/domains/babadroom.store/public_html/checkout/header.php on line 33
+[09-Dec-2020 16:12:54 UTC] PHP Warning:  include(timezone.php): failed to open stream: No such file or directory in /home/u649003091/domains/babadroom.store/public_html/checkout/header.php on line 34
+[09-Dec-2020 16:12:54 UTC] PHP Warning:  include(timezone.php): failed to open stream: No such file or directory in /home/u649003091/domains/babadroom.store/public_html/checkout/header.php on line 34
+[09-Dec-2020 16:12:54 UTC] PHP Warning:  include(): Failed opening 'timezone.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/u649003091/domains/babadroom.store/public_html/checkout/header.php on line 34
+[09-Dec-2020 16:12:54 UTC] PHP Notice:  Undefined variable: con in /home/u649003091/domains/babadroom.store/public_html/checkout/header.php on line 406
+[09-Dec-2020 16:12:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u649003091/domains/babadroom.store/public_html/checkout/header.php on line 406
+[09-Dec-2020 16:12:54 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/u649003091/domains/babadroom.store/public_html/checkout/header.php on line 406
+[09-Dec-2020 16:12:54 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/u649003091/domains/babadroom.store/public_html/checkout/header.php on line 407
+[09-Dec-2020 16:12:54 UTC] PHP Notice:  Undefined variable: con in /home/u649003091/domains/babadroom.store/public_html/checkout/header.php on line 593
+[09-Dec-2020 16:12:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u649003091/domains/babadroom.store/public_html/checkout/header.php on line 593
+[09-Dec-2020 16:12:54 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/u649003091/domains/babadroom.store/public_html/checkout/header.php on line 593
+[09-Dec-2020 16:12:54 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/u649003091/domains/babadroom.store/public_html/checkout/header.php on line 594
+[10-Dec-2020 06:59:54 America/Sao_Paulo] PHP Notice:  Undefined index: USERCIDADE in /home/u649003091/domains/babadroom.store/public_html/checkout/header.php on line 192
+[10-Dec-2020 06:59:54 America/Sao_Paulo] PHP Notice:  Undefined index: USERUF in /home/u649003091/domains/babadroom.store/public_html/checkout/header.php on line 193
+[10-Dec-2020 06:59:54 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home/u649003091/domains/babadroom.store/public_html/checkout/header.php on line 214
+[10-Dec-2020 07:00:01 America/Sao_Paulo] PHP Notice:  Undefined index: USERCEP in /home/u649003091/domains/babadroom.store/public_html/checkout/header.php on line 119
+[10-Dec-2020 07:00:01 America/Sao_Paulo] PHP Notice:  Undefined index: USERCIDADE in /home/u649003091/domains/babadroom.store/public_html/checkout/header.php on line 120
+[10-Dec-2020 07:00:01 America/Sao_Paulo] PHP Notice:  Undefined index: USERUF in /home/u649003091/domains/babadroom.store/public_html/checkout/header.php on line 121
+[10-Dec-2020 11:13:21 America/Sao_Paulo] PHP Notice:  Undefined variable: USERSESSIONCEP in /home/u649003091/domains/babadroom.store/public_html/checkout/header.php on line 284
+[10-Dec-2020 11:13:21 America/Sao_Paulo] PHP Notice:  Undefined variable: USERSESSIONCEP in /home/u649003091/domains/babadroom.store/public_html/checkout/header.php on line 284
+[10-Dec-2020 11:13:21 America/Sao_Paulo] PHP Notice:  Undefined variable: CARTSESSION in /home/u649003091/domains/babadroom.store/public_html/checkout/details.php on line 191
+[10-Dec-2020 11:13:21 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/u649003091/domains/babadroom.store/public_html/checkout/details.php on line 192
+[10-Dec-2020 12:01:14 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/u649003091/domains/babadroom.store/public_html/checkout/details.php on line 227
+[10-Dec-2020 12:09:00 America/Sao_Paulo] PHP Notice:  Undefined index: PXPDETAILSNOMEARQUIVO in /home/u649003091/domains/babadroom.store/public_html/checkout/details.php on line 277
+[10-Dec-2020 12:09:00 America/Sao_Paulo] PHP Notice:  Undefined index: PXPDETAILSNOMEARQUIVO in /home/u649003091/domains/babadroom.store/public_html/checkout/details.php on line 277
+[10-Dec-2020 12:12:59 America/Sao_Paulo] PHP Notice:  Undefined variable: ValotTotalItem in /home/u649003091/domains/babadroom.store/public_html/checkout/details.php on line 320
+[10-Dec-2020 17:44:21 America/Sao_Paulo] PHP Notice:  Undefined variable: SOCODE in /home/u649003091/domains/babadroom.store/public_html/checkout/shipping.php on line 57
+[10-Dec-2020 17:44:21 America/Sao_Paulo] PHP Notice:  Undefined variable: CTMNOME in /home/u649003091/domains/babadroom.store/public_html/checkout/shipping.php on line 89
+[10-Dec-2020 17:44:21 America/Sao_Paulo] PHP Notice:  Undefined variable: SOADDRESS in /home/u649003091/domains/babadroom.store/public_html/checkout/shipping.php on line 89
+[10-Dec-2020 17:44:21 America/Sao_Paulo] PHP Notice:  Undefined variable: SONUMBER in /home/u649003091/domains/babadroom.store/public_html/checkout/shipping.php on line 89
+[10-Dec-2020 17:44:21 America/Sao_Paulo] PHP Notice:  Undefined variable: SOCOMPLEMENT in /home/u649003091/domains/babadroom.store/public_html/checkout/shipping.php on line 89
+[10-Dec-2020 17:44:21 America/Sao_Paulo] PHP Notice:  Undefined variable: SODISTRICT in /home/u649003091/domains/babadroom.store/public_html/checkout/shipping.php on line 89
+[10-Dec-2020 17:44:21 America/Sao_Paulo] PHP Notice:  Undefined variable: SOCITY in /home/u649003091/domains/babadroom.store/public_html/checkout/shipping.php on line 89
+[10-Dec-2020 17:44:21 America/Sao_Paulo] PHP Notice:  Undefined variable: SOSTARE in /home/u649003091/domains/babadroom.store/public_html/checkout/shipping.php on line 89
+[10-Dec-2020 17:44:21 America/Sao_Paulo] PHP Notice:  Undefined variable: SOCOUNTRY in /home/u649003091/domains/babadroom.store/public_html/checkout/shipping.php on line 89
+[10-Dec-2020 17:44:21 America/Sao_Paulo] PHP Notice:  Undefined variable: SOCEP in /home/u649003091/domains/babadroom.store/public_html/checkout/shipping.php on line 89
+[10-Dec-2020 17:44:21 America/Sao_Paulo] PHP Notice:  Undefined variable: SOCODE in /home/u649003091/domains/babadroom.store/public_html/checkout/shipping.php on line 94
+[10-Dec-2020 17:44:40 America/Sao_Paulo] PHP Notice:  Undefined variable: SODISTRICT in /home/u649003091/domains/babadroom.store/public_html/checkout/details.php on line 188
+[10-Dec-2020 17:44:40 America/Sao_Paulo] PHP Notice:  Undefined variable: SOSTATE in /home/u649003091/domains/babadroom.store/public_html/checkout/details.php on line 202
+[10-Dec-2020 18:52:09 America/Sao_Paulo] PHP Notice:  Undefined variable: cart_session in /home/u649003091/domains/babadroom.store/public_html/checkout/details.php on line 246
+[10-Dec-2020 18:52:17 America/Sao_Paulo] PHP Notice:  Undefined variable: cart_session in /home/u649003091/domains/babadroom.store/public_html/checkout/details.php on line 246
+[10-Dec-2020 19:22:06 America/Sao_Paulo] PHP Notice:  Undefined variable: SOSTARE in /home/u649003091/domains/babadroom.store/public_html/checkout/shipping.php on line 93
+[10-Dec-2020 19:22:06 America/Sao_Paulo] PHP Notice:  Undefined variable: SOCEP in /home/u649003091/domains/babadroom.store/public_html/checkout/shipping.php on line 93
+[11-Dec-2020 13:03:28 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/u649003091/domains/babadroom.store/public_html/checkout/shipping.php on line 34
+[11-Dec-2020 10:03:47 America/Sao_Paulo] PHP Notice:  Undefined index: socode in /home/u649003091/domains/babadroom.store/public_html/checkout/shipping.php on line 29
+[11-Dec-2020 10:03:47 America/Sao_Paulo] PHP Notice:  Undefined variable: CTMIDENTIFICADOR in /home/u649003091/domains/babadroom.store/public_html/checkout/shipping.php on line 34
+[11-Dec-2020 10:03:47 America/Sao_Paulo] PHP Notice:  Undefined variable: SOTEL in /home/u649003091/domains/babadroom.store/public_html/checkout/shipping.php on line 34
+[11-Dec-2020 10:05:07 America/Sao_Paulo] PHP Notice:  Undefined index: socode in /home/u649003091/domains/babadroom.store/public_html/checkout/shipping.php on line 29
+[11-Dec-2020 10:05:23 America/Sao_Paulo] PHP Notice:  Undefined index: SODELIVERYP in /home/u649003091/domains/babadroom.store/public_html/checkout/details.php on line 101
+[11-Dec-2020 10:05:23 America/Sao_Paulo] PHP Notice:  Undefined index: SODELIVERYP in /home/u649003091/domains/babadroom.store/public_html/checkout/details.php on line 101
+[11-Dec-2020 10:19:35 America/Sao_Paulo] PHP Notice:  Undefined variable: SUBACTON in /home/u649003091/domains/babadroom.store/public_html/checkout/details.php on line 237
+[11-Dec-2020 10:45:20 America/Sao_Paulo] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/u649003091/domains/babadroom.store/public_html/checkout/shipping.php on line 51
+[11-Dec-2020 10:46:47 America/Sao_Paulo] PHP Notice:  Undefined variable: SOCODE in /home/u649003091/domains/babadroom.store/public_html/checkout/shipping.php on line 84
+[11-Dec-2020 10:46:47 America/Sao_Paulo] PHP Notice:  Undefined variable: CTMNOME in /home/u649003091/domains/babadroom.store/public_html/checkout/shipping.php on line 116
+[11-Dec-2020 10:46:47 America/Sao_Paulo] PHP Notice:  Undefined variable: SOADDRESS in /home/u649003091/domains/babadroom.store/public_html/checkout/shipping.php on line 116
+[11-Dec-2020 10:46:47 America/Sao_Paulo] PHP Notice:  Undefined variable: SONUMBER in /home/u649003091/domains/babadroom.store/public_html/checkout/shipping.php on line 116
+[11-Dec-2020 10:46:47 America/Sao_Paulo] PHP Notice:  Undefined variable: SOCOMPLEMENT in /home/u649003091/domains/babadroom.store/public_html/checkout/shipping.php on line 116
+[11-Dec-2020 10:46:47 America/Sao_Paulo] PHP Notice:  Undefined variable: SODISTRICT in /home/u649003091/domains/babadroom.store/public_html/checkout/shipping.php on line 116
+[11-Dec-2020 10:46:47 America/Sao_Paulo] PHP Notice:  Undefined variable: SOCITY in /home/u649003091/domains/babadroom.store/public_html/checkout/shipping.php on line 116
+[11-Dec-2020 10:46:47 America/Sao_Paulo] PHP Notice:  Undefined variable: SOSTATE in /home/u649003091/domains/babadroom.store/public_html/checkout/shipping.php on line 116
+[11-Dec-2020 10:46:47 America/Sao_Paulo] PHP Notice:  Undefined variable: SOZIPCODE in /home/u649003091/domains/babadroom.store/public_html/checkout/shipping.php on line 116
+[11-Dec-2020 10:46:47 America/Sao_Paulo] PHP Notice:  Undefined variable: SOCOUNTRY in /home/u649003091/domains/babadroom.store/public_html/checkout/shipping.php on line 117
+[11-Dec-2020 10:46:47 America/Sao_Paulo] PHP Notice:  Undefined variable: SOCOMMENTS in /home/u649003091/domains/babadroom.store/public_html/checkout/shipping.php on line 117
+[11-Dec-2020 10:46:47 America/Sao_Paulo] PHP Notice:  Undefined variable: SOCODE in /home/u649003091/domains/babadroom.store/public_html/checkout/shipping.php on line 122
+[11-Dec-2020 10:46:47 America/Sao_Paulo] PHP Notice:  Undefined variable: SOCODE in /home/u649003091/domains/babadroom.store/public_html/checkout/shipping.php on line 226
+[11-Dec-2020 10:46:47 America/Sao_Paulo] PHP Notice:  Undefined variable: SOCODE in /home/u649003091/domains/babadroom.store/public_html/checkout/shipping.php on line 240
+[11-Dec-2020 12:39:43 America/Sao_Paulo] PHP Notice:  Undefined variable: SOCODE in /home/u649003091/domains/babadroom.store/public_html/checkout/payment.php on line 66
+[11-Dec-2020 12:39:43 America/Sao_Paulo] PHP Notice:  Undefined variable: SOCODE in /home/u649003091/domains/babadroom.store/public_html/checkout/payment.php on line 71
+[11-Dec-2020 12:39:43 America/Sao_Paulo] PHP Notice:  Undefined variable: SOCODE in /home/u649003091/domains/babadroom.store/public_html/checkout/payment.php on line 179
+[12-Dec-2020 14:16:22 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/u649003091/domains/babadroom.com/public_html/checkout/shipping.php on line 452
+[12-Dec-2020 11:16:54 America/Sao_Paulo] PHP Notice:  Undefined variable: SOZIPCODE in /home/u649003091/domains/babadroom.com/public_html/checkout/shipping.php on line 80
+[12-Dec-2020 11:16:57 America/Sao_Paulo] PHP Notice:  Undefined variable: SOCODE in /home/u649003091/domains/babadroom.com/public_html/checkout/shipping.php on line 174
+[12-Dec-2020 11:16:57 America/Sao_Paulo] PHP Notice:  Undefined variable: CTMNOME in /home/u649003091/domains/babadroom.com/public_html/checkout/shipping.php on line 206
+[12-Dec-2020 11:16:57 America/Sao_Paulo] PHP Notice:  Undefined variable: SOADDRESS in /home/u649003091/domains/babadroom.com/public_html/checkout/shipping.php on line 206
+[12-Dec-2020 11:16:57 America/Sao_Paulo] PHP Notice:  Undefined variable: SONUMBER in /home/u649003091/domains/babadroom.com/public_html/checkout/shipping.php on line 206
+[12-Dec-2020 11:16:57 America/Sao_Paulo] PHP Notice:  Undefined variable: SOCOMPLEMENT in /home/u649003091/domains/babadroom.com/public_html/checkout/shipping.php on line 206
+[12-Dec-2020 11:16:57 America/Sao_Paulo] PHP Notice:  Undefined variable: SODISTRICT in /home/u649003091/domains/babadroom.com/public_html/checkout/shipping.php on line 206
+[12-Dec-2020 11:16:57 America/Sao_Paulo] PHP Notice:  Undefined variable: SOCITY in /home/u649003091/domains/babadroom.com/public_html/checkout/shipping.php on line 206
+[12-Dec-2020 11:16:57 America/Sao_Paulo] PHP Notice:  Undefined variable: SOSTATE in /home/u649003091/domains/babadroom.com/public_html/checkout/shipping.php on line 206
+[12-Dec-2020 11:16:57 America/Sao_Paulo] PHP Notice:  Undefined variable: SOZIPCODE in /home/u649003091/domains/babadroom.com/public_html/checkout/shipping.php on line 206
+[12-Dec-2020 11:16:57 America/Sao_Paulo] PHP Notice:  Undefined variable: SOCOUNTRY in /home/u649003091/domains/babadroom.com/public_html/checkout/shipping.php on line 207
+[12-Dec-2020 11:16:57 America/Sao_Paulo] PHP Notice:  Undefined variable: SOCOMMENTS in /home/u649003091/domains/babadroom.com/public_html/checkout/shipping.php on line 207
+[12-Dec-2020 11:16:57 America/Sao_Paulo] PHP Notice:  Undefined variable: SOCODE in /home/u649003091/domains/babadroom.com/public_html/checkout/shipping.php on line 212
+[12-Dec-2020 11:16:57 America/Sao_Paulo] PHP Notice:  Undefined variable: SOCITY in /home/u649003091/domains/babadroom.com/public_html/checkout/shipping.php on line 277
+[12-Dec-2020 11:16:57 America/Sao_Paulo] PHP Notice:  Undefined variable: SOCITY in /home/u649003091/domains/babadroom.com/public_html/checkout/shipping.php on line 277
+[12-Dec-2020 11:16:57 America/Sao_Paulo] PHP Notice:  Undefined variable: SOCITY in /home/u649003091/domains/babadroom.com/public_html/checkout/shipping.php on line 277
+[12-Dec-2020 11:16:57 America/Sao_Paulo] PHP Notice:  Undefined variable: SOCODE in /home/u649003091/domains/babadroom.com/public_html/checkout/shipping.php on line 341
+[12-Dec-2020 11:16:57 America/Sao_Paulo] PHP Notice:  Undefined variable: SOCODE in /home/u649003091/domains/babadroom.com/public_html/checkout/shipping.php on line 355
+[12-Dec-2020 11:16:57 America/Sao_Paulo] PHP Notice:  Undefined variable: SOCODE in /home/u649003091/domains/babadroom.com/public_html/checkout/shipping.php on line 447
+[12-Dec-2020 11:16:57 America/Sao_Paulo] PHP Notice:  Undefined variable: SOCODE in /home/u649003091/domains/babadroom.com/public_html/checkout/shipping.php on line 497
+[12-Dec-2020 11:28:34 America/Sao_Paulo] PHP Notice:  Undefined variable: PACPRAZO in /home/u649003091/domains/babadroom.com/public_html/checkout/shipping.php on line 249
+[12-Dec-2020 11:28:34 America/Sao_Paulo] PHP Notice:  Undefined variable: PACVALOR in /home/u649003091/domains/babadroom.com/public_html/checkout/shipping.php on line 250
+[12-Dec-2020 11:28:34 America/Sao_Paulo] PHP Notice:  Undefined variable: SEDEXPRAZO in /home/u649003091/domains/babadroom.com/public_html/checkout/shipping.php on line 262
+[12-Dec-2020 11:28:34 America/Sao_Paulo] PHP Notice:  Undefined variable: SEDEXVALOR in /home/u649003091/domains/babadroom.com/public_html/checkout/shipping.php on line 263
+[12-Dec-2020 11:28:34 America/Sao_Paulo] PHP Notice:  Undefined variable: SEDEX10PRAZO in /home/u649003091/domains/babadroom.com/public_html/checkout/shipping.php on line 276
+[12-Dec-2020 11:28:34 America/Sao_Paulo] PHP Notice:  Undefined variable: SEDEX10VALOR in /home/u649003091/domains/babadroom.com/public_html/checkout/shipping.php on line 277
+[12-Dec-2020 11:34:20 America/Sao_Paulo] PHP Notice:  Undefined variable: SOZIPCODE in /home/u649003091/domains/babadroom.com/public_html/checkout/shipping.php on line 80
+[12-Dec-2020 11:34:26 America/Sao_Paulo] PHP Notice:  Undefined variable: SOCODE in /home/u649003091/domains/babadroom.com/public_html/checkout/shipping.php on line 180
+[12-Dec-2020 11:34:26 America/Sao_Paulo] PHP Notice:  Undefined variable: CTMNOME in /home/u649003091/domains/babadroom.com/public_html/checkout/shipping.php on line 212
+[12-Dec-2020 11:34:26 America/Sao_Paulo] PHP Notice:  Undefined variable: SOADDRESS in /home/u649003091/domains/babadroom.com/public_html/checkout/shipping.php on line 212
+[12-Dec-2020 11:34:26 America/Sao_Paulo] PHP Notice:  Undefined variable: SONUMBER in /home/u649003091/domains/babadroom.com/public_html/checkout/shipping.php on line 212
+[12-Dec-2020 11:34:26 America/Sao_Paulo] PHP Notice:  Undefined variable: SOCOMPLEMENT in /home/u649003091/domains/babadroom.com/public_html/checkout/shipping.php on line 212
+[12-Dec-2020 11:34:26 America/Sao_Paulo] PHP Notice:  Undefined variable: SODISTRICT in /home/u649003091/domains/babadroom.com/public_html/checkout/shipping.php on line 212
+[12-Dec-2020 11:34:26 America/Sao_Paulo] PHP Notice:  Undefined variable: SOCITY in /home/u649003091/domains/babadroom.com/public_html/checkout/shipping.php on line 212
+[12-Dec-2020 11:34:26 America/Sao_Paulo] PHP Notice:  Undefined variable: SOSTATE in /home/u649003091/domains/babadroom.com/public_html/checkout/shipping.php on line 212
+[12-Dec-2020 11:34:26 America/Sao_Paulo] PHP Notice:  Undefined variable: SOZIPCODE in /home/u649003091/domains/babadroom.com/public_html/checkout/shipping.php on line 212
+[12-Dec-2020 11:34:26 America/Sao_Paulo] PHP Notice:  Undefined variable: SOCOUNTRY in /home/u649003091/domains/babadroom.com/public_html/checkout/shipping.php on line 213
+[12-Dec-2020 11:34:26 America/Sao_Paulo] PHP Notice:  Undefined variable: SOCOMMENTS in /home/u649003091/domains/babadroom.com/public_html/checkout/shipping.php on line 213
+[12-Dec-2020 11:34:26 America/Sao_Paulo] PHP Notice:  Undefined variable: SOCODE in /home/u649003091/domains/babadroom.com/public_html/checkout/shipping.php on line 218
+[12-Dec-2020 11:34:26 America/Sao_Paulo] PHP Notice:  Undefined variable: SOCITY in /home/u649003091/domains/babadroom.com/public_html/checkout/shipping.php on line 283
+[12-Dec-2020 11:34:26 America/Sao_Paulo] PHP Notice:  Undefined variable: SOCITY in /home/u649003091/domains/babadroom.com/public_html/checkout/shipping.php on line 283
+[12-Dec-2020 11:34:26 America/Sao_Paulo] PHP Notice:  Undefined variable: SOCITY in /home/u649003091/domains/babadroom.com/public_html/checkout/shipping.php on line 283
+[12-Dec-2020 11:34:26 America/Sao_Paulo] PHP Notice:  Undefined variable: SOCODE in /home/u649003091/domains/babadroom.com/public_html/checkout/shipping.php on line 347
+[12-Dec-2020 11:34:26 America/Sao_Paulo] PHP Notice:  Undefined variable: SOCODE in /home/u649003091/domains/babadroom.com/public_html/checkout/shipping.php on line 361
+[12-Dec-2020 11:34:26 America/Sao_Paulo] PHP Notice:  Undefined variable: SOCODE in /home/u649003091/domains/babadroom.com/public_html/checkout/shipping.php on line 453
+[12-Dec-2020 11:34:26 America/Sao_Paulo] PHP Notice:  Undefined variable: SOCODE in /home/u649003091/domains/babadroom.com/public_html/checkout/shipping.php on line 503
+[12-Dec-2020 15:12:43 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/u649003091/domains/babadroom.com/public_html/checkout/shipping.php on line 379
+[12-Dec-2020 15:12:43 America/Sao_Paulo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/u649003091/domains/babadroom.com/public_html/checkout/shipping.php on line 466
+[12-Dec-2020 19:40:09 UTC] PHP Parse error:  syntax error, unexpected '"' in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 68
+[12-Dec-2020 16:40:46 America/Sao_Paulo] PHP Notice:  Undefined index: pacvalor in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 28
+[12-Dec-2020 16:40:46 America/Sao_Paulo] PHP Notice:  Undefined index: pacprazo in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 28
+[12-Dec-2020 16:40:46 America/Sao_Paulo] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 38
+[12-Dec-2020 16:40:46 America/Sao_Paulo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 40
+[12-Dec-2020 16:40:46 America/Sao_Paulo] PHP Notice:  Undefined variable: SUBTOTAL in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 48
+[12-Dec-2020 16:47:43 America/Sao_Paulo] PHP Notice:  Undefined index: pacvalor in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 18
+[12-Dec-2020 16:47:43 America/Sao_Paulo] PHP Notice:  Undefined index: sedexvalor in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 19
+[12-Dec-2020 16:47:43 America/Sao_Paulo] PHP Notice:  Undefined index: sedex10valor in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 20
+[12-Dec-2020 16:47:43 America/Sao_Paulo] PHP Notice:  Undefined index: pacprazo in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 21
+[12-Dec-2020 16:47:43 America/Sao_Paulo] PHP Notice:  Undefined index: sedexprazo in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 22
+[12-Dec-2020 16:47:43 America/Sao_Paulo] PHP Notice:  Undefined index: sedex10prazo in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 23
+[12-Dec-2020 17:05:12 America/Sao_Paulo] PHP Notice:  Undefined variable: SOCODE in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 234
+[12-Dec-2020 17:05:12 America/Sao_Paulo] PHP Notice:  Undefined variable: SODISCOUNT in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 322
+[12-Dec-2020 17:05:12 America/Sao_Paulo] PHP Notice:  Undefined variable: SOVALUESHIPPING in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 323
+[12-Dec-2020 17:05:12 America/Sao_Paulo] PHP Notice:  Undefined variable: VALORFINAL in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 329
+[12-Dec-2020 17:05:12 America/Sao_Paulo] PHP Notice:  Undefined variable: CODEPREVPAGSEG in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 344
+[12-Dec-2020 17:05:16 America/Sao_Paulo] PHP Notice:  Undefined variable: SOCODE in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 234
+[12-Dec-2020 17:05:16 America/Sao_Paulo] PHP Notice:  Undefined variable: SODISCOUNT in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 322
+[12-Dec-2020 17:05:16 America/Sao_Paulo] PHP Notice:  Undefined variable: SOVALUESHIPPING in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 323
+[12-Dec-2020 17:05:16 America/Sao_Paulo] PHP Notice:  Undefined variable: VALORFINAL in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 329
+[12-Dec-2020 17:05:16 America/Sao_Paulo] PHP Notice:  Undefined variable: CODEPREVPAGSEG in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 344
+[12-Dec-2020 17:05:17 America/Sao_Paulo] PHP Notice:  Undefined variable: SOCODE in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 234
+[12-Dec-2020 17:05:17 America/Sao_Paulo] PHP Notice:  Undefined variable: SODISCOUNT in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 322
+[12-Dec-2020 17:05:17 America/Sao_Paulo] PHP Notice:  Undefined variable: SOVALUESHIPPING in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 323
+[12-Dec-2020 17:05:17 America/Sao_Paulo] PHP Notice:  Undefined variable: VALORFINAL in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 329
+[12-Dec-2020 17:05:17 America/Sao_Paulo] PHP Notice:  Undefined variable: CODEPREVPAGSEG in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 344
+[12-Dec-2020 17:05:21 America/Sao_Paulo] PHP Notice:  Undefined variable: SOCODE in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 234
+[12-Dec-2020 17:05:21 America/Sao_Paulo] PHP Notice:  Undefined variable: SODISCOUNT in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 322
+[12-Dec-2020 17:05:21 America/Sao_Paulo] PHP Notice:  Undefined variable: SOVALUESHIPPING in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 323
+[12-Dec-2020 17:05:21 America/Sao_Paulo] PHP Notice:  Undefined variable: VALORFINAL in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 329
+[12-Dec-2020 17:05:21 America/Sao_Paulo] PHP Notice:  Undefined variable: CODEPREVPAGSEG in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 344
+[12-Dec-2020 17:05:23 America/Sao_Paulo] PHP Notice:  Undefined variable: SOCODE in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 234
+[12-Dec-2020 17:05:23 America/Sao_Paulo] PHP Notice:  Undefined variable: SODISCOUNT in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 322
+[12-Dec-2020 17:05:23 America/Sao_Paulo] PHP Notice:  Undefined variable: SOVALUESHIPPING in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 323
+[12-Dec-2020 17:05:23 America/Sao_Paulo] PHP Notice:  Undefined variable: VALORFINAL in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 329
+[12-Dec-2020 17:05:23 America/Sao_Paulo] PHP Notice:  Undefined variable: CODEPREVPAGSEG in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 344
+[12-Dec-2020 17:05:24 America/Sao_Paulo] PHP Notice:  Undefined variable: SOCODE in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 234
+[12-Dec-2020 17:05:24 America/Sao_Paulo] PHP Notice:  Undefined variable: SODISCOUNT in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 322
+[12-Dec-2020 17:05:24 America/Sao_Paulo] PHP Notice:  Undefined variable: SOVALUESHIPPING in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 323
+[12-Dec-2020 17:05:24 America/Sao_Paulo] PHP Notice:  Undefined variable: VALORFINAL in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 329
+[12-Dec-2020 17:05:24 America/Sao_Paulo] PHP Notice:  Undefined variable: CODEPREVPAGSEG in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 344
+[12-Dec-2020 17:05:43 America/Sao_Paulo] PHP Notice:  Undefined variable: USEREMAILSESSION in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 79
+[12-Dec-2020 17:05:43 America/Sao_Paulo] PHP Notice:  Undefined variable: USEREMAILSESSION in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 79
+[12-Dec-2020 17:05:43 America/Sao_Paulo] PHP Notice:  Undefined variable: USEREMAILSESSION in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 79
+[12-Dec-2020 17:05:43 America/Sao_Paulo] PHP Notice:  Undefined variable: USEREMAILSESSION in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 79
+[12-Dec-2020 17:05:43 America/Sao_Paulo] PHP Notice:  Undefined variable: USEREMAILSESSION in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 79
+[12-Dec-2020 17:05:45 America/Sao_Paulo] PHP Notice:  A non well formed numeric value encountered in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 328
+[18-Dec-2020 08:57:15 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/u649003091/domains/babadroom.com/public_html/checkout/shipping.php on line 387
+[18-Dec-2020 08:57:15 America/Sao_Paulo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/u649003091/domains/babadroom.com/public_html/checkout/shipping.php on line 474
+[18-Dec-2020 09:02:56 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/u649003091/domains/babadroom.com/public_html/checkout/shipping.php on line 387
+[18-Dec-2020 09:02:56 America/Sao_Paulo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/u649003091/domains/babadroom.com/public_html/checkout/shipping.php on line 474
+[18-Dec-2020 09:11:58 America/Sao_Paulo] PHP Notice:  A non well formed numeric value encountered in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 328
+[18-Dec-2020 09:41:26 America/Sao_Paulo] PHP Notice:  Undefined variable: CARTSESSION in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 228
+[18-Dec-2020 09:46:46 America/Sao_Paulo] PHP Notice:  Undefined variable: SOCODE in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 221
+[18-Dec-2020 09:46:46 America/Sao_Paulo] PHP Notice:  Undefined variable: SUBTOTAL in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 280
+[18-Dec-2020 09:46:46 America/Sao_Paulo] PHP Notice:  Undefined variable: SOVALUESHIPPING in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 348
+[18-Dec-2020 09:46:46 America/Sao_Paulo] PHP Notice:  Undefined variable: SOAMOUNT in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 361
+[18-Dec-2020 09:46:46 America/Sao_Paulo] PHP Notice:  Undefined variable: CODEPREVPAGSEG in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 368
+[19-Dec-2020 06:04:35 America/Sao_Paulo] PHP Notice:  Undefined variable: SOCODE in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 221
+[19-Dec-2020 06:04:35 America/Sao_Paulo] PHP Notice:  Undefined variable: SOVALUESHIPPING in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 336
+[19-Dec-2020 06:04:35 America/Sao_Paulo] PHP Notice:  Undefined variable: SOAMOUNT in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 349
+[19-Dec-2020 06:04:35 America/Sao_Paulo] PHP Notice:  Undefined variable: CODEPREVPAGSEG in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 356
+[19-Dec-2020 06:05:04 America/Sao_Paulo] PHP Notice:  Undefined variable: SOCODE in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 221
+[19-Dec-2020 06:05:04 America/Sao_Paulo] PHP Notice:  Undefined variable: SOVALUESHIPPING in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 336
+[19-Dec-2020 06:05:04 America/Sao_Paulo] PHP Notice:  Undefined variable: SOAMOUNT in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 349
+[19-Dec-2020 06:05:04 America/Sao_Paulo] PHP Notice:  Undefined variable: CODEPREVPAGSEG in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 356
+[19-Dec-2020 06:05:09 America/Sao_Paulo] PHP Notice:  Undefined variable: SOCODE in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 221
+[19-Dec-2020 06:05:09 America/Sao_Paulo] PHP Notice:  Undefined variable: SOVALUESHIPPING in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 336
+[19-Dec-2020 06:05:09 America/Sao_Paulo] PHP Notice:  Undefined variable: SOAMOUNT in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 349
+[19-Dec-2020 06:05:09 America/Sao_Paulo] PHP Notice:  Undefined variable: CODEPREVPAGSEG in /home/u649003091/domains/babadroom.com/public_html/checkout/payment.php on line 356
+[22-Dec-2020 16:15:01 UTC] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 28
+[22-Dec-2020 16:15:01 UTC] PHP Warning:  simplexml_load_string(): Not Found in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 28
+[22-Dec-2020 16:15:01 UTC] PHP Warning:  simplexml_load_string(): ^ in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 28
+[22-Dec-2020 16:15:01 UTC] PHP Notice:  Trying to get property of non-object in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 30
+[22-Dec-2020 16:15:01 UTC] PHP Notice:  Trying to get property of non-object in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 30
+[22-Dec-2020 16:15:01 UTC] PHP Notice:  Trying to get property of non-object in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 30
+[22-Dec-2020 16:15:01 UTC] PHP Notice:  Trying to get property of non-object in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 31
+[22-Dec-2020 16:15:01 UTC] PHP Notice:  Trying to get property of non-object in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 32
+[22-Dec-2020 16:15:01 UTC] PHP Notice:  Trying to get property of non-object in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 33
+[22-Dec-2020 16:15:01 UTC] PHP Notice:  Trying to get property of non-object in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 34
+[22-Dec-2020 16:15:01 UTC] PHP Notice:  Trying to get property of non-object in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 34
+[22-Dec-2020 16:15:01 UTC] PHP Notice:  Trying to get property of non-object in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 34
+[22-Dec-2020 16:15:01 UTC] PHP Notice:  Trying to get property of non-object in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 35
+[22-Dec-2020 16:15:01 UTC] PHP Notice:  Trying to get property of non-object in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 35
+[22-Dec-2020 16:15:01 UTC] PHP Notice:  Trying to get property of non-object in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 36
+[22-Dec-2020 16:15:01 UTC] PHP Notice:  Trying to get property of non-object in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 37
+[22-Dec-2020 16:15:01 UTC] PHP Notice:  Trying to get property of non-object in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 37
+[22-Dec-2020 16:15:01 UTC] PHP Notice:  Trying to get property of non-object in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 38
+[22-Dec-2020 16:15:01 UTC] PHP Notice:  Trying to get property of non-object in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 38
+[22-Dec-2020 16:15:01 UTC] PHP Notice:  Trying to get property of non-object in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 39
+[22-Dec-2020 16:15:01 UTC] PHP Notice:  Trying to get property of non-object in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 39
+[22-Dec-2020 16:15:01 UTC] PHP Notice:  Trying to get property of non-object in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 39
+[22-Dec-2020 16:15:01 UTC] PHP Notice:  Trying to get property of non-object in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 40
+[22-Dec-2020 16:15:01 UTC] PHP Notice:  Trying to get property of non-object in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 40
+[22-Dec-2020 16:15:01 UTC] PHP Notice:  Trying to get property of non-object in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 40
+[22-Dec-2020 16:15:01 UTC] PHP Warning:  include(../LBtimezone.php): failed to open stream: No such file or directory in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 62
+[22-Dec-2020 16:15:01 UTC] PHP Warning:  include(../LBtimezone.php): failed to open stream: No such file or directory in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 62
+[22-Dec-2020 16:15:01 UTC] PHP Warning:  include(): Failed opening '../LBtimezone.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 62
+[22-Dec-2020 16:15:01 UTC] PHP Warning:  include(../connect/LBconecta.php): failed to open stream: No such file or directory in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 63
+[22-Dec-2020 16:15:01 UTC] PHP Warning:  include(../connect/LBconecta.php): failed to open stream: No such file or directory in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 63
+[22-Dec-2020 16:15:01 UTC] PHP Warning:  include(): Failed opening '../connect/LBconecta.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 63
+[22-Dec-2020 16:15:01 UTC] PHP Notice:  Undefined variable: datetime in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 76
+[22-Dec-2020 16:15:01 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 76
+[22-Dec-2020 16:15:01 UTC] PHP Warning:  mysql_query(): Access denied for user 'u649003091'@'localhost' (using password: NO) in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 76
+[22-Dec-2020 16:15:01 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 76
+[22-Dec-2020 17:26:25 UTC] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 28
+[22-Dec-2020 17:26:25 UTC] PHP Warning:  simplexml_load_string(): Not Found in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 28
+[22-Dec-2020 17:26:25 UTC] PHP Warning:  simplexml_load_string(): ^ in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 28
+[22-Dec-2020 17:26:25 UTC] PHP Notice:  Trying to get property of non-object in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 30
+[22-Dec-2020 17:26:25 UTC] PHP Notice:  Trying to get property of non-object in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 30
+[22-Dec-2020 17:26:25 UTC] PHP Notice:  Trying to get property of non-object in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 30
+[22-Dec-2020 17:26:25 UTC] PHP Notice:  Trying to get property of non-object in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 31
+[22-Dec-2020 17:26:25 UTC] PHP Notice:  Trying to get property of non-object in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 32
+[22-Dec-2020 17:26:25 UTC] PHP Notice:  Trying to get property of non-object in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 33
+[22-Dec-2020 17:26:25 UTC] PHP Notice:  Trying to get property of non-object in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 34
+[22-Dec-2020 17:26:25 UTC] PHP Notice:  Trying to get property of non-object in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 34
+[22-Dec-2020 17:26:25 UTC] PHP Notice:  Trying to get property of non-object in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 34
+[22-Dec-2020 17:26:25 UTC] PHP Notice:  Trying to get property of non-object in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 35
+[22-Dec-2020 17:26:25 UTC] PHP Notice:  Trying to get property of non-object in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 35
+[22-Dec-2020 17:26:25 UTC] PHP Notice:  Trying to get property of non-object in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 36
+[22-Dec-2020 17:26:25 UTC] PHP Notice:  Trying to get property of non-object in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 37
+[22-Dec-2020 17:26:25 UTC] PHP Notice:  Trying to get property of non-object in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 37
+[22-Dec-2020 17:26:25 UTC] PHP Notice:  Trying to get property of non-object in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 38
+[22-Dec-2020 17:26:25 UTC] PHP Notice:  Trying to get property of non-object in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 38
+[22-Dec-2020 17:26:25 UTC] PHP Notice:  Trying to get property of non-object in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 39
+[22-Dec-2020 17:26:25 UTC] PHP Notice:  Trying to get property of non-object in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 39
+[22-Dec-2020 17:26:25 UTC] PHP Notice:  Trying to get property of non-object in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 39
+[22-Dec-2020 17:26:25 UTC] PHP Notice:  Trying to get property of non-object in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 40
+[22-Dec-2020 17:26:25 UTC] PHP Notice:  Trying to get property of non-object in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 40
+[22-Dec-2020 17:26:25 UTC] PHP Notice:  Trying to get property of non-object in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 40
+[22-Dec-2020 17:26:25 UTC] PHP Warning:  include(../LBtimezone.php): failed to open stream: No such file or directory in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 62
+[22-Dec-2020 17:26:25 UTC] PHP Warning:  include(../LBtimezone.php): failed to open stream: No such file or directory in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 62
+[22-Dec-2020 17:26:25 UTC] PHP Warning:  include(): Failed opening '../LBtimezone.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 62
+[22-Dec-2020 17:26:25 UTC] PHP Warning:  include(../connect/LBconecta.php): failed to open stream: No such file or directory in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 63
+[22-Dec-2020 17:26:25 UTC] PHP Warning:  include(../connect/LBconecta.php): failed to open stream: No such file or directory in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 63
+[22-Dec-2020 17:26:25 UTC] PHP Warning:  include(): Failed opening '../connect/LBconecta.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 63
+[22-Dec-2020 17:26:25 UTC] PHP Notice:  Undefined variable: datetime in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 76
+[22-Dec-2020 17:26:25 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 76
+[22-Dec-2020 17:26:25 UTC] PHP Warning:  mysql_query(): Access denied for user 'u649003091'@'localhost' (using password: NO) in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 76
+[22-Dec-2020 17:26:25 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/u649003091/domains/babadroom.com/public_html/checkout/retorno-pagseguro.php on line 76
+[22-Dec-2020 19:07:27 UTC] PHP Notice:  Undefined variable: _SESSION in /home/u649003091/domains/babadroom.com/public_html/checkout/concluded.php on line 4
+[22-Dec-2020 19:07:31 UTC] PHP Notice:  Undefined variable: _SESSION in /home/u649003091/domains/babadroom.com/public_html/checkout/concluded.php on line 4
